@@ -5,32 +5,32 @@
   "start_url": "/?utm_source=web_app_manifest",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "#184970",
-  "background_color": "#ffffff",
+  "theme_color": "YellowGreen",
+  "background_color": "White",
   "lang": "en",
   "icons": [
     {
-      "src": "/images/logo-144x144.png",
+      "src": "./images/logo-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/images/logo-192x192.png",
+      "src": "./images/logo-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/images/logo-256x256.png",
+      "src": "./images/logo-256x256.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "/images/logo-384x384.png",
+      "src": "./images/logo-384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "/images/logo-512x512.png",
+      "src": "./images/logo-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
